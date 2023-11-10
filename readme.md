@@ -6,12 +6,16 @@ Email: Contact.khangfk@gmail.com
 ## Description
 
 This repository contains the source code for a web application that enables online transactions using VNPAY as the payment gateway. The application includes features such as search, sort, filter, paging, add to cart, and a section to view trending products.
+## Technologies
+ASP.NET MVC6, Entity Framework, JavaScript, SQL Server.
+
+This repository contains the source code for a web application that enables online transactions using VNPAY as the payment gateway. The application includes features such as search, sort, filter, paging, add to cart, and a section to view trending products.
 
 ## Features
 
-### 1. VNPAY Integration
+### 1. VNPAY
 
-The web application supports secure online payments through VNPAY, ensuring a smooth and reliable transaction process.
+[VNPay Docs](https://sandbox.vnpayment.vn/apis/docs/gioi-thieu/)
 
 ### 2. Search Functionality
 
@@ -37,5 +41,3 @@ Users can add products to their shopping cart, providing a centralized place to 
 
 A section highlighting trending products helps users discover popular and in-demand items.
 
-### 8. More About VNPay
-[VNPay Docs](https://sandbox.vnpayment.vn/apis/docs/gioi-thieu/)
