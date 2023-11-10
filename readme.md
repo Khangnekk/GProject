@@ -1,6 +1,7 @@
-# Project Name
+# Project Name : GProject (ASP.NET) Ecommerce
 
-Web Application with VNPAY Integration
+Author: Nguyen Luong Khang
+Email: Contact.khangfk@gmail.com
 
 ## Description
 
