@@ -184,7 +184,7 @@
                                 </td>
                                 <td class="total-price">@(item.UnitPrice * item.Quantity)</td>
                                 <td class="button-container">
-                                            <form method="post" name="Buynow+@item.ProductId" action="@Url.Action(" CreatePaymentUrl", "Vnpay")">
+                                            <form method="post" name="Buynow+@item.ProductId" action="@Url.Action("CreatePaymentUrl", "Vnpay")">
 @*                                     @{
                                         PaymentInformationModel pfm = new PaymentInformationModel();
                                         pfm.OrderType = "BUY";

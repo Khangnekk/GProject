@@ -1,4 +1,6 @@
+using Gp.Services;
 using GProject.Models;
+using GProject.Services;
 using Microsoft.EntityFrameworkCore;
 
 internal class Program
@@ -8,6 +10,7 @@ internal class Program
         var builder = WebApplication.CreateBuilder(args);
         builder.Services.AddControllersWithViews();
         builder.Services.AddDistributedMemoryCache();
+        builder.Services.AddScoped<IVnPayService, VnPayService>();
         builder.Services.AddSession(options =>
         {
             options.IdleTimeout = TimeSpan.FromMinutes(30);

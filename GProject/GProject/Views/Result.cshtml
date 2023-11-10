@@ -1,5 +1,5 @@
-﻿@model GProject.Models.PaymentResponseModel
-
+﻿@using GProject.Models;
+@model GProject.Models.PaymentResponseModel
 
 <!DOCTYPE html>
 <html lang="en">
@@ -42,8 +42,13 @@
             </tr>
             <tr>
                 <td>Merchant Name</td>
-                <td>Phone Shop</td>
+                <td>Khangnek</td>
                 <td>Tên Website Merchant</td>
+            </tr>
+            <tr>
+                <td>Amount</td>
+                <td>@ViewBag.PaymentInformation</td>
+                <td>VNĐ</td>
             </tr>
             <tr>
                 <td>Transaction Info</td>
@@ -78,6 +83,7 @@
         </tbody>
     </table>
 </div>
+<a href="../Home/getAllProducts">Back to Main</a>
         <footer class="footer">
             <p>&copy; VNPAY 2023</p>
         </footer>

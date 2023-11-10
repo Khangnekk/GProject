@@ -18,16 +18,19 @@ namespace GProject.Controllers
         {
             PaymentInformationModel model = new PaymentInformationModel();
             model.OrderType = OrderType;
-            model.Amount = Amount;
+            model.Amount = Amount * 23000;
             model.OrderDescription = OrderDescription;
             model.Name = Name;
-            return View(_vnPayService.CreatePaymentUrl(model, HttpContext));
+            HttpContext.Session.SetString("Amount", (Amount * 23000).ToString());
+            //ViewData["Amount"] = HttpContext.Session.GetString("Amount");
+            return Redirect(_vnPayService.CreatePaymentUrl(model, HttpContext));
         }
         [HttpGet]
         public IActionResult PaymentCallback()
         {
             PaymentResponseModel response = (PaymentResponseModel)_vnPayService.PaymentExecute(Request.Query);
             ViewBag.Response = response;
+            ViewBag.PaymentInformation = HttpContext.Session.GetString("Amount");
             return View("/Views/Result.cshtml", response);
         }
     }
