@@ -1,4 +1,4 @@
-# Project Name : GProject (ASP.NET) Ecommerce
+# Project Name : GProject Ecommerce (ASP.NET)
 
 Author: Nguyen Luong Khang
 Email: Contact.khangfk@gmail.com
