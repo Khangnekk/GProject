@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\HE161660\\PRN211_HE161660\\Exercise\\GProject\\GProject\\GProject.csproj": {}
+    "E:\\HE161660\\PRN211_HE161660\\GProject\\GProject\\GProject\\GProject.csproj": {}
   },
   "projects": {
-    "E:\\HE161660\\PRN211_HE161660\\Exercise\\GProject\\GProject\\GProject.csproj": {
+    "E:\\HE161660\\PRN211_HE161660\\GProject\\GProject\\GProject\\GProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\HE161660\\PRN211_HE161660\\Exercise\\GProject\\GProject\\GProject.csproj",
+        "projectUniqueName": "E:\\HE161660\\PRN211_HE161660\\GProject\\GProject\\GProject\\GProject.csproj",
         "projectName": "GProject",
-        "projectPath": "E:\\HE161660\\PRN211_HE161660\\Exercise\\GProject\\GProject\\GProject.csproj",
+        "projectPath": "E:\\HE161660\\PRN211_HE161660\\GProject\\GProject\\GProject\\GProject.csproj",
         "packagesPath": "C:\\Users\\zed25\\.nuget\\packages\\",
-        "outputPath": "E:\\HE161660\\PRN211_HE161660\\Exercise\\GProject\\GProject\\obj\\",
+        "outputPath": "E:\\HE161660\\PRN211_HE161660\\GProject\\GProject\\GProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zed25\\AppData\\Roaming\\NuGet\\NuGet.Config",

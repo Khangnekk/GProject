@@ -9,29 +9,29 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GProject
 build_property.RootNamespace = GProject
-build_property.ProjectDir = E:\HE161660\PRN211_HE161660\Exercise\GProject\GProject\
+build_property.ProjectDir = E:\HE161660\PRN211_HE161660\GProject\GProject\GProject\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\HE161660\PRN211_HE161660\Exercise\GProject\GProject
+build_property.MSBuildProjectDirectory = E:\HE161660\PRN211_HE161660\GProject\GProject\GProject
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/HE161660/PRN211_HE161660/Exercise/GProject/GProject/Views/Home.cshtml]
+[E:/HE161660/PRN211_HE161660/GProject/GProject/GProject/Views/Home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/HE161660/PRN211_HE161660/Exercise/GProject/GProject/Views/Result.cshtml]
+[E:/HE161660/PRN211_HE161660/GProject/GProject/GProject/Views/Result.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/HE161660/PRN211_HE161660/Exercise/GProject/GProject/Views/Trending.cshtml]
+[E:/HE161660/PRN211_HE161660/GProject/GProject/GProject/Views/Trending.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlbmRpbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/HE161660/PRN211_HE161660/Exercise/GProject/GProject/Views/ViewCart.cshtml]
+[E:/HE161660/PRN211_HE161660/GProject/GProject/GProject/Views/ViewCart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlld0NhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/HE161660/PRN211_HE161660/Exercise/GProject/GProject/Views/_MenuTop.cshtml]
+[E:/HE161660/PRN211_HE161660/GProject/GProject/GProject/Views/_MenuTop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX01lbnVUb3AuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
