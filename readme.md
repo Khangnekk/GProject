@@ -9,8 +9,6 @@ This repository contains the source code for a web application that enables onli
 ## Technologies
 ASP.NET MVC6, Entity Framework, JavaScript, SQL Server.
 
-This repository contains the source code for a web application that enables online transactions using VNPAY as the payment gateway. The application includes features such as search, sort, filter, paging, add to cart, and a section to view trending products.
-
 ## Features
 
 ### 1. VNPAY
